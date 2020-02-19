@@ -72,6 +72,13 @@ using Blazor_UIkit.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\Soprom\Desktop\Blazor_UIkit\_Imports.razor"
+using Blazor_UIkit.Shared.Components;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

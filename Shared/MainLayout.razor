@@ -1,15 +1,17 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="sidebar">
-    <NavMenu />
-</div>
-
-<div class="main">
-    <div class="top-row px-4">
-        <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+    <div class="app-header">
+        <nav class="uk-navbar-container" uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-item uk-logo" href="#">Blazor UIkit</a>
+            </div>
+        </nav>
     </div>
-
-    <div class="content px-4">
+<div class="app-body">
+    <div class="app-sidebar">
+        <NavMenu />
+    </div>
+    <div class="app-content">
         @Body
     </div>
 </div>
