@@ -1,4 +1,14 @@
-﻿<i class="material-icons">
-    menu_book
-</i>
-asdfasf
+﻿<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">@title</a>
+        <div class="uk-accordion-content">
+            @content
+        </div>
+    </li>
+</ul>
+
+
+@code{
+    [Parameter] public RenderFragment title { get; set; } 
+    [Parameter] public RenderFragment content { get; set; } 
+}

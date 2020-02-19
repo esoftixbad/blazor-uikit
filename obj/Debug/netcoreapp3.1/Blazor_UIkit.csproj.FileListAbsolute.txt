@@ -46,3 +46,6 @@ C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\Razor\Pages\_Accord
 C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\Razor\Shared\Components\Accordion.razor.g.cs
 C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\_Col.razor.g.cs
 C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\Razor\Pages\_Col.razor.g.cs
+C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\Blazor_UIkit.csprojAssemblyReference.cache
+C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Components\MdIcon.razor.g.cs
+C:\Users\Soprom\Desktop\Blazor_UIkit\obj\Debug\netcoreapp3.1\Razor\Shared\Components\MdIcon.razor.g.cs
